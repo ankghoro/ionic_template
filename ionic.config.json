@@ -1,0 +1,7 @@
+{
+  "name": "champiro",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}

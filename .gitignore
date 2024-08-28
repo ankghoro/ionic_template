@@ -23,7 +23,7 @@ package-lock.json
 /.sass-cache
 /.sourcemaps
 /.versions
-/.vscode/*
+/.vscode
 !/.vscode/extensions.json
 /coverage
 /dist

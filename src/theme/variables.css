@@ -1,2 +1,25 @@
 /* For information on how to create your own theme, please see:
 http://ionicframework.com/docs/theming/ */
+
+.centered {
+	align-items: center;
+	display: inline-block;
+	justify-content: center;
+	width: 100%;
+}
+
+.margin-5-0 {
+	margin: 5px 0;
+}
+
+.margin-right-10 {
+	margin-right: 10px;
+}
+
+.padding-0 {
+	padding: 0;
+}
+
+.padding-7-10 {
+	padding: 7px 10px;
+}

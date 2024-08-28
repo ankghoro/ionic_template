@@ -1,7 +1,7 @@
 {
-  "name": "champiro",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "vue-vite"
+	"name": "champiro",
+	"integrations": {
+		"capacitor": {}
+	},
+	"type": "vue-vite"
 }
